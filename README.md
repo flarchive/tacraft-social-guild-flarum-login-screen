@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of tacraft-social-guild/flarum-login-screen.** Not for installation: use [Packagist](https://packagist.org/packages/tacraft-social-guild/flarum-login-screen) or the [upstream repository](https://github.com/TaCraft-Social-Guild/flarum-login-screen).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/tacraft-social-guild-flarum-login-screen/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/tacraft-social-guild-flarum-login-screen/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-29 | `^2.0` | [Browse](https://github.com/flarchive/tacraft-social-guild-flarum-login-screen/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-10-29 | `^2.0` | [Browse](https://github.com/flarchive/tacraft-social-guild-flarum-login-screen/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/tacraft-social-guild-flarum-login-screen.json](https://github.com/flarchive/archive-index/blob/main/packages/tacraft-social-guild-flarum-login-screen.json)
 
